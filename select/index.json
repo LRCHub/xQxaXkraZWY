@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "FANCY",
+  "base_artist": "TWICE",
+  "createdAt": "2026-01-11T07:23:17.672197Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fancy Like",
+      "artist": "Walker Hayes",
+      "has_synced": true,
+      "path": "select/01_Fancy_Like_Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Settin' Fancy Free - Single Version",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": false,
+      "path": "select/02_I'm_Settin'_Fancy_Free_-_Single_Version_The_Oak_Ridge_Boys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(I'm Settin') Fancy Free (Single Version)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/03_(I'm_Settin')_Fancy_Free_(Single_Version)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fancy",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/04_Fancy_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fancy Like (Dave Audé Remix)",
+      "artist": "Walker Hayes feat. Dave Audé",
+      "has_synced": true,
+      "path": "select/05_Fancy_Like_(Dave_Audé_Remix)_Walker_Hayes_feat._Dave_Audé.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fancy Like (Dave Audé Remix)",
+      "artist": "Walker Hayes",
+      "has_synced": true,
+      "path": "select/06_Fancy_Like_(Dave_Audé_Remix)_Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fancy",
+      "artist": "Drake feat. T.I. & Swizz Beatz",
+      "has_synced": true,
+      "path": "select/07_Fancy_Drake_feat._T.I._&_Swizz_Beatz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fancy (feat. T.I. & Swizz Beatz)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/08_Fancy_(feat._T.I._&_Swizz_Beatz)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Very Fancy",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/09_Very_Fancy_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Very Fancy",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/10_Very_Fancy_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fancy",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/11_Fancy_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fancy Clown",
+      "artist": "Madvillain feat. Viktor Vaughn",
+      "has_synced": true,
+      "path": "select/12_Fancy_Clown_Madvillain_feat._Viktor_Vaughn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fancy Clown (Feat. Viktor Vaughn)",
+      "artist": "Madvillain",
+      "has_synced": true,
+      "path": "select/13_Fancy_Clown_(Feat._Viktor_Vaughn)_Madvillain.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fancy That",
+      "artist": "The Power Station",
+      "has_synced": true,
+      "path": "select/14_Fancy_That_The_Power_Station.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Too Fancy",
+      "artist": "Debbie Gibson",
+      "has_synced": true,
+      "path": "select/15_Too_Fancy_Debbie_Gibson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FANCY",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_FANCY_TWICE.txt"
+    }
+  ]
+}
